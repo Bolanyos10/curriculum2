@@ -1,0 +1,56 @@
+/* AUTOR: CARLOS BOLAÑOS PALAU
+    FECHA DE MODIFICACION: 18/12/2019 */
+
+
+
+/* CSS PAGINA GLOBAL */
+body {
+    background-color: #eeeeee;
+    color: black;
+    font-family: sans-serif;
+    text-align: justify;
+}
+/* CSS TITULOS */
+h1 {
+    color: #333333;
+    font-size: 200%;
+    text-align: center;
+    text-transform: uppercase;
+}
+/* CSS TITULOS MEDIANOS */
+h2 {
+    background-color: #888888;
+    color: red;
+    font-size: 150%;
+    text-transform: capitalize;
+}
+/* CSS TITULOS PEQUEÑOS */
+h3 {
+    background-color: #aaaaaa;
+    color: #8b008b;
+    font-size: 130%;
+}
+/* CSS TEXTO */
+p {
+    background-color: #cccccc;
+    line-height: 150%;
+}
+/* CSS RETO DE ETIQUETAS */
+address {
+    background-color: white;
+    font-style: normal;
+    text-align: right;
+}
+
+em {
+    color: blue;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+strong {
+    color: green;
+    font-style: normal;
+    font-weight: normal;
+}
